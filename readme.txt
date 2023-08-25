@@ -11,5 +11,3 @@ This is a puzzle game developed in Python + (Tkinter for the UI) that solves its
 This is a college project.
 
 Run the MainWindow.py for execution
-
-
